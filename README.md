@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是周嘉泰 (Justin Black Chou)，一位致力于开发的学生。
+我是周嘉泰 (Zhou Jiatai)，一位致力于开发的学生。
 
 - 🌱 我正在学习 C/C++, C#, Python, Java;
 - 🌱 I’m currently learning C/C++, C#, Python, Java;
