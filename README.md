@@ -1,12 +1,12 @@
-### Hi there 👋
+### 欢迎 👋
 
-我是周嘉泰 (Zhou Jiatai)，一位致力于开发的学生。
+我是 Zhou Jiatai，一位致力于开发的学生。
 
 - 🌱 我正在学习 C/C++, C#, Python, Java;
 - 🌱 I’m currently learning C/C++, C#, Python, Java;
 
-- 📫 联系我: [***zhou.jiatai@foxmail.com***](mailto:zhou.jiatai@foxmail.com)
-- 📫 How to reach me: [***zhou.jiatai@foxmail.com***](mailto:zhou.jiatai@foxmail.com)
+- 🔭 我正在编写一个随机数生成器——[ZJtRand](https://github.com/ZhouJiatai/ZJtRand)。
+- 🔭 I’m currently working on a random number generator - [ZJtRand](https://github.com/ZhouJiatai/ZJtRand).
 
 <!--
 **ZhouJiatai/ZhouJiatai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
