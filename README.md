@@ -1,7 +1,7 @@
 ### 欢迎 👋
 #### Welcome 👋
 
-我是 Zhou Jiatai，一位致力于开发的学生。
+我是 Zhou Jiatai，一位致力于开发的学生。  
 I am Zhou Jiatai, a student studying development.
 
 - 🌱 我正在学习 C/C++, C#, Python, Java;
