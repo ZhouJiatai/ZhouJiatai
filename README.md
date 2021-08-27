@@ -6,8 +6,8 @@
 我是 Zhou Jiatai，一位致力于开发的学生。  
 I am Zhou Jiatai, a student studying development.
 
-- 🌱 我正在学习 C/C++, C#, Python, Java。
-- 🌱 I’m learning C/C++, C#, Python, Java.
+- 🌱 我正在学习 C/C++ 和 Python。
+- 🌱 I’m learning C/C++ and Python.
 
 - 🔭 我正在编写一个随机数生成器——[ZJtRand](https://github.com/ZhouJiatai/ZJtRand)。
 - 🔭 I’m working on a random number generator - [ZJtRand](https://github.com/ZhouJiatai/ZJtRand).
