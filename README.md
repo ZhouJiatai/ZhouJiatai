@@ -3,11 +3,11 @@
 ### 欢迎 👋
 #### Welcome 👋
 
-我是 Zhou Jiatai，一位致力于开发的学生。  
-I am Zhou Jiatai, a student studying development.
+我是 Zhou Jiatai，一位正在学习开发的学生。  
+I am Zhou Jiatai, a student who is studying development.
 
 - 🌱 我正在学习 Python。
-- 🌱 I’m learning Python.
+- 🌱 I am learning Python.
 
 - 💬 如果你需要向我提问题，请前往 <https://github.com/ZhouJiatai/ZhouJiatai/issues/new>。
 - 💬 If you need to ask me questions, please go to <https://github.com/ZhouJiatai/ZhouJiatai/issues/new>.
